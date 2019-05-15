@@ -1,0 +1,130 @@
+@charset "UTF-8";
+.nav {
+    max-height: 80px;
+    background-color: #000000;
+    height: 80px;
+}
+.nav li {
+    color: #FFFFFF;
+    display: inline;
+    padding-left: 51px;
+    text-align: left;
+    clear: none;
+    float: none;
+    font-family: inconsolata;
+    font-style: normal;
+    font-weight: 500;
+}
+.nav ul {
+    text-align: right;
+    padding-right: 14px;
+    clear: none;
+    float: none;
+}
+.nav img {
+    padding-top: 26px;
+    padding-left: 40px;
+    float: left;
+}
+.hero {
+    background-image: url(paintwave.jpg);
+    padding-top: 151px;
+    padding-bottom: 149px;
+    text-align: center;
+    background-size: cover;
+    background-position: 0% 34%;
+}
+.hero a {
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+    background-color: #000000;
+    border-radius: 157px;
+    text-align: center;
+    font-family: inconsolata;
+    font-style: normal;
+    font-weight: 500;
+    font-size: large;
+}
+.hero h3 {
+    text-align: center;
+    font-family: inconsolata;
+    font-style: normal;
+    font-weight: 500;
+    color: #FFFFFF;
+    text-shadow: 1px 2px 1px #000000;
+    margin-bottom: -84px;
+    letter-spacing: 7px;
+}
+.hero h1 {
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    color: #FFFFFF;
+    font-family: inconsolata;
+    font-size: 124px;
+    text-shadow: 1px 2px 1px #000000;
+    letter-spacing: 24px;
+}
+.hero h4 {
+    text-align: center;
+    font-family: inconsolata;
+    font-style: normal;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding-bottom: 32px;
+    padding-top: 0px;
+    text-shadow: 1px 2px 1px #000000;
+    margin-bottom: 28px;
+    margin-top: -80px;
+    letter-spacing: 6px;
+}
+.col1 {
+    width: 50%;
+    float: left;
+    max-width: 50%;
+}
+.col1 p {
+    text-align: center;
+    font-family: inconsolata;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+}
+.col2 {
+    width: 50%;
+    clear: none;
+    float: right;
+    max-width: 50%;
+    background-size: cover;
+    background-image: url(goldrush.jpg);
+    padding-top: 623px;
+    left: 0px;
+    text-align: center;
+    bottom: 0px;
+    background-position: 0% 53%;
+}
+.footer {
+    background-image: -webkit-linear-gradient(49deg,rgba(255,91,127,1.00) 0.13%,rgba(255,213,85,1.00) 99.88%);
+    background-image: -moz-linear-gradient(49deg,rgba(255,91,127,1.00) 0.13%,rgba(255,213,85,1.00) 99.88%);
+    background-image: -o-linear-gradient(49deg,rgba(255,91,127,1.00) 0.13%,rgba(255,213,85,1.00) 99.88%);
+    background-image: linear-gradient(41deg,rgba(255,91,127,1.00) 0.13%,rgba(255,213,85,1.00) 99.88%);
+    clear: both;
+    text-align: center;
+}
+.footer img {
+    padding-top: 125px;
+    margin-bottom: 35px;
+}
+.footer p {
+    font-family: inconsolata;
+    font-style: normal;
+    font-weight: 500;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 125px;
+    margin-bottom: -130px;
+}
